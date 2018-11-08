@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>binacle</PokemonName>
+    <BaseHP>42</BaseHP>
+    <BaseAttack>52</BaseAttack>
+    <BaseDefence>67</BaseDefence>
+    <BaseSpecialAttack>39</BaseSpecialAttack>
+    <BaseSpecialDefence>56</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>688</ID>
+    <Type>
+      <Item>water</Item>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Two-Handed</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>water3</Item>
+    </EggGroups>
+    <BaseExp>61</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

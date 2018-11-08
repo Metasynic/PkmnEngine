@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>swanna</PokemonName>
+    <BaseHP>75</BaseHP>
+    <BaseAttack>87</BaseAttack>
+    <BaseDefence>63</BaseDefence>
+    <BaseSpecialAttack>87</BaseSpecialAttack>
+    <BaseSpecialDefence>63</BaseSpecialDefence>
+    <BaseSpeed>98</BaseSpeed>
+    <ID>581</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>White Bird</Species>
+    <WeightKg>1.3</WeightKg>
+    <HeightM>1.3</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>166</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>2</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

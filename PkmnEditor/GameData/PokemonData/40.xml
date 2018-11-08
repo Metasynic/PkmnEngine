@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>wigglytuff</PokemonName>
+    <BaseHP>140</BaseHP>
+    <BaseAttack>70</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>85</BaseSpecialAttack>
+    <BaseSpecialDefence>50</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>40</ID>
+    <Type>
+      <Item>fairy</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Balloon</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>196</BaseExp>
+    <CaptureRate>50</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>10</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>3</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

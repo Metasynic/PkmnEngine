@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>voltorb</PokemonName>
+    <BaseHP>40</BaseHP>
+    <BaseAttack>30</BaseAttack>
+    <BaseDefence>50</BaseDefence>
+    <BaseSpecialAttack>55</BaseSpecialAttack>
+    <BaseSpecialDefence>55</BaseSpecialDefence>
+    <BaseSpeed>100</BaseSpeed>
+    <ID>100</ID>
+    <Type>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Ball</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>66</BaseExp>
+    <CaptureRate>190</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

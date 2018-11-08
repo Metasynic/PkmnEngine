@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>shelgon</PokemonName>
+    <BaseHP>65</BaseHP>
+    <BaseAttack>95</BaseAttack>
+    <BaseDefence>100</BaseDefence>
+    <BaseSpecialAttack>60</BaseSpecialAttack>
+    <BaseSpecialDefence>50</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>372</ID>
+    <Type>
+      <Item>dragon</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Endurance</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+    </EggGroups>
+    <BaseExp>147</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

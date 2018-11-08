@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>raticate</PokemonName>
+    <BaseHP>55</BaseHP>
+    <BaseAttack>81</BaseAttack>
+    <BaseDefence>60</BaseDefence>
+    <BaseSpecialAttack>50</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>97</BaseSpeed>
+    <ID>20</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Mouse</Species>
+    <WeightKg>0.7</WeightKg>
+    <HeightM>0.7</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>145</BaseExp>
+    <CaptureRate>127</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>2</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

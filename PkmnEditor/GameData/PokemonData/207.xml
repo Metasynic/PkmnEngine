@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>gligar</PokemonName>
+    <BaseHP>65</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>105</BaseDefence>
+    <BaseSpecialAttack>35</BaseSpecialAttack>
+    <BaseSpecialDefence>65</BaseSpecialDefence>
+    <BaseSpeed>85</BaseSpeed>
+    <ID>207</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>ground</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Fly Scorpion</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+    </EggGroups>
+    <BaseExp>86</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

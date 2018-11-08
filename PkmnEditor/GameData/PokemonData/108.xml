@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>lickitung</PokemonName>
+    <BaseHP>90</BaseHP>
+    <BaseAttack>55</BaseAttack>
+    <BaseDefence>75</BaseDefence>
+    <BaseSpecialAttack>60</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>30</BaseSpeed>
+    <ID>108</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Licking</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>77</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>infernape</PokemonName>
+    <BaseHP>76</BaseHP>
+    <BaseAttack>104</BaseAttack>
+    <BaseDefence>71</BaseDefence>
+    <BaseSpecialAttack>104</BaseSpecialAttack>
+    <BaseSpecialDefence>71</BaseSpecialDefence>
+    <BaseSpeed>108</BaseSpeed>
+    <ID>392</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Flame</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>240</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

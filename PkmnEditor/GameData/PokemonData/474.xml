@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>porygon-z</PokemonName>
+    <BaseHP>85</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>135</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>90</BaseSpeed>
+    <ID>474</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Virtual</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>241</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

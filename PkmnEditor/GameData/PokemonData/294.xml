@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>loudred</PokemonName>
+    <BaseHP>84</BaseHP>
+    <BaseAttack>71</BaseAttack>
+    <BaseDefence>43</BaseDefence>
+    <BaseSpecialAttack>71</BaseSpecialAttack>
+    <BaseSpecialDefence>43</BaseSpecialDefence>
+    <BaseSpeed>48</BaseSpeed>
+    <ID>294</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Big Voice</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>126</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

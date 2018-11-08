@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>corsola</PokemonName>
+    <BaseHP>55</BaseHP>
+    <BaseAttack>55</BaseAttack>
+    <BaseDefence>85</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>85</BaseSpecialDefence>
+    <BaseSpeed>35</BaseSpeed>
+    <ID>222</ID>
+    <Type>
+      <Item>rock</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Coral</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>water3</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>133</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

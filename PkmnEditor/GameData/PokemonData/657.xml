@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>frogadier</PokemonName>
+    <BaseHP>54</BaseHP>
+    <BaseAttack>63</BaseAttack>
+    <BaseDefence>52</BaseDefence>
+    <BaseSpecialAttack>83</BaseSpecialAttack>
+    <BaseSpecialDefence>56</BaseSpecialDefence>
+    <BaseSpeed>97</BaseSpeed>
+    <ID>657</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Bubble Frog</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>142</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>2</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>basculin-red-striped</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>92</BaseAttack>
+    <BaseDefence>65</BaseDefence>
+    <BaseSpecialAttack>80</BaseSpecialAttack>
+    <BaseSpecialDefence>55</BaseSpecialDefence>
+    <BaseSpeed>98</BaseSpeed>
+    <ID>550</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Hostile</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>water2</Item>
+    </EggGroups>
+    <BaseExp>161</BaseExp>
+    <CaptureRate>25</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>2</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

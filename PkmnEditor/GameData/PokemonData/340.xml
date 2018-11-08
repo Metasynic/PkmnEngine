@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>whiscash</PokemonName>
+    <BaseHP>110</BaseHP>
+    <BaseAttack>78</BaseAttack>
+    <BaseDefence>73</BaseDefence>
+    <BaseSpecialAttack>76</BaseSpecialAttack>
+    <BaseSpecialDefence>71</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>340</ID>
+    <Type>
+      <Item>ground</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Whiskers</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>water2</Item>
+    </EggGroups>
+    <BaseExp>164</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

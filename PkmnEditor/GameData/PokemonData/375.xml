@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>metang</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>100</BaseDefence>
+    <BaseSpecialAttack>55</BaseSpecialAttack>
+    <BaseSpecialDefence>80</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>375</ID>
+    <Type>
+      <Item>psychic</Item>
+      <Item>steel</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Iron Claw</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>147</BaseExp>
+    <CaptureRate>3</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

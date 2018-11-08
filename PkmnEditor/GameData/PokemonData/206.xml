@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>dunsparce</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>70</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>65</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>206</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Land Snake</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>145</BaseExp>
+    <CaptureRate>190</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

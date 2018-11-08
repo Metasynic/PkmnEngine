@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87D82993-A530-4CAF-9359-D5F1974C521A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MGPkmnLibrary</RootNamespace>
+    <AssemblyName>MGPkmnLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BattleClasses\Battle.cs" />
+    <Compile Include="BattleClasses\BaseTurn.cs" />
+    <Compile Include="BattleClasses\PokemonInBattle.cs" />
+    <Compile Include="BattleClasses\TurnMove.cs" />
+    <Compile Include="BattleClasses\TurnRun.cs" />
+    <Compile Include="BattleClasses\TurnSwitch.cs" />
+    <Compile Include="CharacterClasses\Character.cs" />
+    <Compile Include="Controls\BattleLog.cs" />
+    <Compile Include="Controls\Control.cs" />
+    <Compile Include="Controls\ControlManager.cs" />
+    <Compile Include="Controls\FourButton.cs" />
+    <Compile Include="Controls\Label.cs" />
+    <Compile Include="Controls\LeftRightSelector.cs" />
+    <Compile Include="Controls\LinkLabel.cs" />
+    <Compile Include="Controls\ListBox.cs" />
+    <Compile Include="Controls\PictureBox.cs" />
+    <Compile Include="GameState.cs" />
+    <Compile Include="GameStateManager.cs" />
+    <Compile Include="InputHandler.cs" />
+    <Compile Include="ItemClasses\Bag.cs" />
+    <Compile Include="ItemClasses\BaseItem.cs" />
+    <Compile Include="ItemClasses\Berry.cs" />
+    <Compile Include="ItemClasses\GameItem.cs" />
+    <Compile Include="ItemClasses\GameItemManager.cs" />
+    <Compile Include="ItemClasses\ItemManager.cs" />
+    <Compile Include="ItemClasses\ItemSprite.cs" />
+    <Compile Include="ItemClasses\MegaStone.cs" />
+    <Compile Include="PkmnUtils.cs" />
+    <Compile Include="PokemonClasses\Ability.cs" />
+    <Compile Include="PokemonClasses\AttributePair.cs" />
+    <Compile Include="PokemonClasses\Move.cs" />
+    <Compile Include="PokemonClasses\MoveManager.cs" />
+    <Compile Include="PokemonClasses\Pokemon.cs" />
+    <Compile Include="PokemonClasses\PokemonData.cs" />
+    <Compile Include="PokemonClasses\PokemonDataManager.cs" />
+    <Compile Include="PokemonClasses\Trainer.cs" />
+    <Compile Include="PokemonClasses\TrainerManager.cs" />
+    <Compile Include="SaveData.cs" />
+    <Compile Include="SpriteClasses\AnimatedSprite.cs" />
+    <Compile Include="SpriteClasses\Animation.cs" />
+    <Compile Include="SpriteClasses\BaseSprite.cs" />
+    <Compile Include="TileEngine\AnimatedMapLayer.cs" />
+    <Compile Include="TileEngine\AnimatedTile.cs" />
+    <Compile Include="TileEngine\AnimatedTileset.cs" />
+    <Compile Include="TileEngine\Camera.cs" />
+    <Compile Include="TileEngine\Engine.cs" />
+    <Compile Include="TileEngine\InterfaceLayer.cs" />
+    <Compile Include="TileEngine\MapLayer.cs" />
+    <Compile Include="TileEngine\Tile.cs" />
+    <Compile Include="TileEngine\TileMap.cs" />
+    <Compile Include="TileEngine\Tileset.cs" />
+    <Compile Include="WorldClasses\Level.cs" />
+    <Compile Include="WorldClasses\LevelData.cs" />
+    <Compile Include="WorldClasses\MapData.cs" />
+    <Compile Include="WorldClasses\MapLayerData.cs" />
+    <Compile Include="WorldClasses\TilesetData.cs" />
+    <Compile Include="WorldClasses\World.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework, Version=3.5.1.1679, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MSBuild\MonoGame\v3.0\Tools\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

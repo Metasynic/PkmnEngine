@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>lucario</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>110</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>115</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>90</BaseSpeed>
+    <ID>448</ID>
+    <Type>
+      <Item>steel</Item>
+      <Item>fighting</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Aura</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>184</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

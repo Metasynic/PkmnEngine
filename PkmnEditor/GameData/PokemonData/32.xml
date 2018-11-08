@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>nidoran-m</PokemonName>
+    <BaseHP>46</BaseHP>
+    <BaseAttack>57</BaseAttack>
+    <BaseDefence>40</BaseDefence>
+    <BaseSpecialAttack>40</BaseSpecialAttack>
+    <BaseSpecialDefence>40</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>32</ID>
+    <Type>
+      <Item>poison</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Poison Pin</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>55</BaseExp>
+    <CaptureRate>235</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>100</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

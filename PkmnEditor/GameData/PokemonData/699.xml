@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>aurorus</PokemonName>
+    <BaseHP>123</BaseHP>
+    <BaseAttack>77</BaseAttack>
+    <BaseDefence>72</BaseDefence>
+    <BaseSpecialAttack>99</BaseSpecialAttack>
+    <BaseSpecialDefence>92</BaseSpecialDefence>
+    <BaseSpeed>58</BaseSpeed>
+    <ID>699</ID>
+    <Type>
+      <Item>ice</Item>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Tundra</Species>
+    <WeightKg>2.7</WeightKg>
+    <HeightM>2.7</HeightM>
+    <EggGroups>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>104</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>30</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

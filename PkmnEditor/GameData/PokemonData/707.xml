@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>klefki</PokemonName>
+    <BaseHP>57</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>91</BaseDefence>
+    <BaseSpecialAttack>80</BaseSpecialAttack>
+    <BaseSpecialDefence>87</BaseSpecialDefence>
+    <BaseSpeed>75</BaseSpeed>
+    <ID>707</ID>
+    <Type>
+      <Item>fairy</Item>
+      <Item>steel</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Key Ring</Species>
+    <WeightKg>0.2</WeightKg>
+    <HeightM>0.2</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>165</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

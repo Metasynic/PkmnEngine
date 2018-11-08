@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>haunter</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>115</BaseSpecialAttack>
+    <BaseSpecialDefence>55</BaseSpecialDefence>
+    <BaseSpeed>95</BaseSpeed>
+    <ID>93</ID>
+    <Type>
+      <Item>poison</Item>
+      <Item>ghost</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Gas</Species>
+    <WeightKg>1.6</WeightKg>
+    <HeightM>1.6</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>142</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>2</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

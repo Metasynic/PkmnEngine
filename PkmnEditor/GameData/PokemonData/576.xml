@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>gothitelle</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>55</BaseAttack>
+    <BaseDefence>95</BaseDefence>
+    <BaseSpecialAttack>95</BaseSpecialAttack>
+    <BaseSpecialDefence>110</BaseSpecialDefence>
+    <BaseSpeed>65</BaseSpeed>
+    <ID>576</ID>
+    <Type>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Astral Body</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>221</BaseExp>
+    <CaptureRate>50</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>3</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

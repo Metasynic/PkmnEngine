@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>blitzle</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>32</BaseDefence>
+    <BaseSpecialAttack>50</BaseSpecialAttack>
+    <BaseSpecialDefence>32</BaseSpecialDefence>
+    <BaseSpeed>76</BaseSpeed>
+    <ID>522</ID>
+    <Type>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Electrified</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>59</BaseExp>
+    <CaptureRate>190</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

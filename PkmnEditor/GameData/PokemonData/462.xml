@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>magnezone</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>70</BaseAttack>
+    <BaseDefence>115</BaseDefence>
+    <BaseSpecialAttack>130</BaseSpecialAttack>
+    <BaseSpecialDefence>90</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>462</ID>
+    <Type>
+      <Item>steel</Item>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Magnet Area</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>241</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

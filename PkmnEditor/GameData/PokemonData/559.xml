@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>scraggy</PokemonName>
+    <BaseHP>50</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>35</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>48</BaseSpeed>
+    <ID>559</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Shedding</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>70</BaseExp>
+    <CaptureRate>180</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

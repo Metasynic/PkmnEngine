@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>claydol</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>70</BaseAttack>
+    <BaseDefence>105</BaseDefence>
+    <BaseSpecialAttack>70</BaseSpecialAttack>
+    <BaseSpecialDefence>120</BaseSpecialDefence>
+    <BaseSpeed>75</BaseSpeed>
+    <ID>344</ID>
+    <Type>
+      <Item>psychic</Item>
+      <Item>ground</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Clay Doll</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>175</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>2</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

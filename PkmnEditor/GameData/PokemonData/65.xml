@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>alakazam</PokemonName>
+    <BaseHP>55</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>135</BaseSpecialAttack>
+    <BaseSpecialDefence>95</BaseSpecialDefence>
+    <BaseSpeed>120</BaseSpeed>
+    <ID>65</ID>
+    <Type>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Psi</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>225</BaseExp>
+    <CaptureRate>50</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>75</male>
+      <female>25</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

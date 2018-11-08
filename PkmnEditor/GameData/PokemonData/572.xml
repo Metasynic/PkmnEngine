@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>minccino</PokemonName>
+    <BaseHP>55</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>40</BaseDefence>
+    <BaseSpecialAttack>40</BaseSpecialAttack>
+    <BaseSpecialDefence>40</BaseSpecialDefence>
+    <BaseSpeed>75</BaseSpeed>
+    <ID>572</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Chinchilla</Species>
+    <WeightKg>0.4</WeightKg>
+    <HeightM>0.4</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>60</BaseExp>
+    <CaptureRate>255</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

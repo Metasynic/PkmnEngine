@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>swadloon</PokemonName>
+    <BaseHP>55</BaseHP>
+    <BaseAttack>63</BaseAttack>
+    <BaseDefence>90</BaseDefence>
+    <BaseSpecialAttack>50</BaseSpecialAttack>
+    <BaseSpecialDefence>80</BaseSpecialDefence>
+    <BaseSpeed>42</BaseSpeed>
+    <ID>541</ID>
+    <Type>
+      <Item>grass</Item>
+      <Item>bug</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Leaf-Wrapped</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+    </EggGroups>
+    <BaseExp>133</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

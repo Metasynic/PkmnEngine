@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>yanmega</PokemonName>
+    <BaseHP>86</BaseHP>
+    <BaseAttack>76</BaseAttack>
+    <BaseDefence>86</BaseDefence>
+    <BaseSpecialAttack>116</BaseSpecialAttack>
+    <BaseSpecialDefence>56</BaseSpecialDefence>
+    <BaseSpeed>95</BaseSpeed>
+    <ID>469</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>bug</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Ogre Darner</Species>
+    <WeightKg>1.9</WeightKg>
+    <HeightM>1.9</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+    </EggGroups>
+    <BaseExp>180</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

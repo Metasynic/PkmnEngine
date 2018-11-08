@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>bagon</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>60</BaseDefence>
+    <BaseSpecialAttack>40</BaseSpecialAttack>
+    <BaseSpecialDefence>30</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>371</ID>
+    <Type>
+      <Item>dragon</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Rock Head</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+    </EggGroups>
+    <BaseExp>60</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

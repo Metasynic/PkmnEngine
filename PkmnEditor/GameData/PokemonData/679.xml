@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>honedge</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>100</BaseDefence>
+    <BaseSpecialAttack>35</BaseSpecialAttack>
+    <BaseSpecialDefence>37</BaseSpecialDefence>
+    <BaseSpeed>28</BaseSpeed>
+    <ID>679</ID>
+    <Type>
+      <Item>ghost</Item>
+      <Item>steel</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Sword</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>65</BaseExp>
+    <CaptureRate>180</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>sliggoo</PokemonName>
+    <BaseHP>68</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>53</BaseDefence>
+    <BaseSpecialAttack>83</BaseSpecialAttack>
+    <BaseSpecialDefence>113</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>705</ID>
+    <Type>
+      <Item>dragon</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Soft Tissue</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+    </EggGroups>
+    <BaseExp>158</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>2</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>braviary</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>123</BaseAttack>
+    <BaseDefence>75</BaseDefence>
+    <BaseSpecialAttack>57</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>80</BaseSpeed>
+    <ID>628</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Valiant</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>179</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>100</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

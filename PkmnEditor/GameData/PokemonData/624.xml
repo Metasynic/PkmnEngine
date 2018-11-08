@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>pawniard</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>85</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>40</BaseSpecialAttack>
+    <BaseSpecialDefence>40</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>624</ID>
+    <Type>
+      <Item>steel</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Sharp Blade</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>68</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

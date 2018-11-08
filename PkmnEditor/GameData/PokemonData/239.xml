@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>elekid</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>63</BaseAttack>
+    <BaseDefence>37</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>55</BaseSpecialDefence>
+    <BaseSpeed>95</BaseSpeed>
+    <ID>239</ID>
+    <Type>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Electric</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>72</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>75</male>
+      <female>25</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

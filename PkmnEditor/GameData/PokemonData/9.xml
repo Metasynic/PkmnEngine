@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>blastoise</PokemonName>
+    <BaseHP>79</BaseHP>
+    <BaseAttack>83</BaseAttack>
+    <BaseDefence>100</BaseDefence>
+    <BaseSpecialAttack>85</BaseSpecialAttack>
+    <BaseSpecialDefence>105</BaseSpecialDefence>
+    <BaseSpeed>78</BaseSpeed>
+    <ID>9</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Shellfish</Species>
+    <WeightKg>1.6</WeightKg>
+    <HeightM>1.6</HeightM>
+    <EggGroups>
+      <Item>water1</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>239</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>3</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

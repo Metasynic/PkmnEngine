@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>goldeen</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>67</BaseAttack>
+    <BaseDefence>60</BaseDefence>
+    <BaseSpecialAttack>35</BaseSpecialAttack>
+    <BaseSpecialDefence>50</BaseSpecialDefence>
+    <BaseSpeed>63</BaseSpeed>
+    <ID>118</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Goldfish</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>water2</Item>
+    </EggGroups>
+    <BaseExp>64</BaseExp>
+    <CaptureRate>225</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

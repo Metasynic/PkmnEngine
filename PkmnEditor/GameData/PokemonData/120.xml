@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>staryu</PokemonName>
+    <BaseHP>30</BaseHP>
+    <BaseAttack>45</BaseAttack>
+    <BaseDefence>55</BaseDefence>
+    <BaseSpecialAttack>70</BaseSpecialAttack>
+    <BaseSpecialDefence>55</BaseSpecialDefence>
+    <BaseSpeed>85</BaseSpeed>
+    <ID>120</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Star Shape</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>water3</Item>
+    </EggGroups>
+    <BaseExp>68</BaseExp>
+    <CaptureRate>225</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

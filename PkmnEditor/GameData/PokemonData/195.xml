@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>quagsire</PokemonName>
+    <BaseHP>95</BaseHP>
+    <BaseAttack>85</BaseAttack>
+    <BaseDefence>85</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>65</BaseSpecialDefence>
+    <BaseSpeed>35</BaseSpeed>
+    <ID>195</ID>
+    <Type>
+      <Item>ground</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Water Fish</Species>
+    <WeightKg>1.4</WeightKg>
+    <HeightM>1.4</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>151</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

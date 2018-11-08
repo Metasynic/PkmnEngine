@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>luxray</PokemonName>
+    <BaseHP>80</BaseHP>
+    <BaseAttack>120</BaseAttack>
+    <BaseDefence>79</BaseDefence>
+    <BaseSpecialAttack>95</BaseSpecialAttack>
+    <BaseSpecialDefence>79</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>405</ID>
+    <Type>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Gleam Eyes</Species>
+    <WeightKg>1.4</WeightKg>
+    <HeightM>1.4</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>235</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>3</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

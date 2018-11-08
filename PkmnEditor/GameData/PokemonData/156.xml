@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>quilava</PokemonName>
+    <BaseHP>58</BaseHP>
+    <BaseAttack>64</BaseAttack>
+    <BaseDefence>58</BaseDefence>
+    <BaseSpecialAttack>80</BaseSpecialAttack>
+    <BaseSpecialDefence>65</BaseSpecialDefence>
+    <BaseSpeed>80</BaseSpeed>
+    <ID>156</ID>
+    <Type>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Volcano</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>142</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

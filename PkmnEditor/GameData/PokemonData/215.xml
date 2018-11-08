@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>sneasel</PokemonName>
+    <BaseHP>55</BaseHP>
+    <BaseAttack>95</BaseAttack>
+    <BaseDefence>55</BaseDefence>
+    <BaseSpecialAttack>35</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>115</BaseSpeed>
+    <ID>215</ID>
+    <Type>
+      <Item>ice</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Sharp Claw</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>86</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

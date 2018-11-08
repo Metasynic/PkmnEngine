@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>ninetales</PokemonName>
+    <BaseHP>73</BaseHP>
+    <BaseAttack>76</BaseAttack>
+    <BaseDefence>75</BaseDefence>
+    <BaseSpecialAttack>81</BaseSpecialAttack>
+    <BaseSpecialDefence>100</BaseSpecialDefence>
+    <BaseSpeed>100</BaseSpeed>
+    <ID>38</ID>
+    <Type>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Fox</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>177</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

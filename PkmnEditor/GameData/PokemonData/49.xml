@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>venomoth</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>65</BaseAttack>
+    <BaseDefence>60</BaseDefence>
+    <BaseSpecialAttack>90</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>90</BaseSpeed>
+    <ID>49</ID>
+    <Type>
+      <Item>poison</Item>
+      <Item>bug</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Poison Moth</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+    </EggGroups>
+    <BaseExp>158</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

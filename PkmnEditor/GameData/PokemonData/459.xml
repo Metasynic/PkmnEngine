@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>snover</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>62</BaseAttack>
+    <BaseDefence>50</BaseDefence>
+    <BaseSpecialAttack>62</BaseSpecialAttack>
+    <BaseSpecialDefence>60</BaseSpecialDefence>
+    <BaseSpeed>40</BaseSpeed>
+    <ID>459</ID>
+    <Type>
+      <Item>ice</Item>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Frost Tree</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>67</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

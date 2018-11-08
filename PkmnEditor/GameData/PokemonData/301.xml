@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>delcatty</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>65</BaseAttack>
+    <BaseDefence>65</BaseDefence>
+    <BaseSpecialAttack>55</BaseSpecialAttack>
+    <BaseSpecialDefence>55</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>301</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Prim</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>133</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

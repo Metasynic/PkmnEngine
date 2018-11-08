@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>rotom</PokemonName>
+    <BaseHP>50</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>77</BaseDefence>
+    <BaseSpecialAttack>95</BaseSpecialAttack>
+    <BaseSpecialDefence>77</BaseSpecialDefence>
+    <BaseSpeed>91</BaseSpeed>
+    <ID>479</ID>
+    <Type>
+      <Item>ghost</Item>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Plasma</Species>
+    <WeightKg>0.3</WeightKg>
+    <HeightM>0.3</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>154</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

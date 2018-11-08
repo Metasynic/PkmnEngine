@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>snorlax</PokemonName>
+    <BaseHP>160</BaseHP>
+    <BaseAttack>110</BaseAttack>
+    <BaseDefence>65</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>110</BaseSpecialDefence>
+    <BaseSpeed>30</BaseSpeed>
+    <ID>143</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Sleeping</Species>
+    <WeightKg>2.1</WeightKg>
+    <HeightM>2.1</HeightM>
+    <EggGroups>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>189</BaseExp>
+    <CaptureRate>25</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

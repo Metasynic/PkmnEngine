@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>boldore</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>105</BaseAttack>
+    <BaseDefence>105</BaseDefence>
+    <BaseSpecialAttack>50</BaseSpecialAttack>
+    <BaseSpecialDefence>40</BaseSpecialDefence>
+    <BaseSpeed>20</BaseSpeed>
+    <ID>525</ID>
+    <Type>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Ore</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>137</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

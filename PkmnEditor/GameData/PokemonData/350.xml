@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>milotic</PokemonName>
+    <BaseHP>95</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>79</BaseDefence>
+    <BaseSpecialAttack>100</BaseSpecialAttack>
+    <BaseSpecialDefence>125</BaseSpecialDefence>
+    <BaseSpeed>81</BaseSpeed>
+    <ID>350</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Tender</Species>
+    <WeightKg>6.2</WeightKg>
+    <HeightM>6.2</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>189</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>erratic</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>2</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

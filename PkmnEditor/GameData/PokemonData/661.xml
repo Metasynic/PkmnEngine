@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>fletchling</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>43</BaseDefence>
+    <BaseSpecialAttack>40</BaseSpecialAttack>
+    <BaseSpecialDefence>38</BaseSpecialDefence>
+    <BaseSpeed>62</BaseSpeed>
+    <ID>661</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Tiny Robin</Species>
+    <WeightKg>0.3</WeightKg>
+    <HeightM>0.3</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>56</BaseExp>
+    <CaptureRate>255</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

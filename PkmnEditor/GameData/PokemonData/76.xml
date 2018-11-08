@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>golem</PokemonName>
+    <BaseHP>80</BaseHP>
+    <BaseAttack>120</BaseAttack>
+    <BaseDefence>130</BaseDefence>
+    <BaseSpecialAttack>55</BaseSpecialAttack>
+    <BaseSpecialDefence>65</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>76</ID>
+    <Type>
+      <Item>ground</Item>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Megaton</Species>
+    <WeightKg>1.4</WeightKg>
+    <HeightM>1.4</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>223</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>3</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

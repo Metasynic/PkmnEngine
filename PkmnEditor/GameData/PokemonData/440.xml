@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>happiny</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>5</BaseAttack>
+    <BaseDefence>5</BaseDefence>
+    <BaseSpecialAttack>15</BaseSpecialAttack>
+    <BaseSpecialDefence>65</BaseSpecialDefence>
+    <BaseSpeed>30</BaseSpeed>
+    <ID>440</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Playhouse</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>110</BaseExp>
+    <CaptureRate>130</CaptureRate>
+    <BaseHappiness>140</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>100</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

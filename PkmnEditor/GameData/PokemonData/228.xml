@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>houndour</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>30</BaseDefence>
+    <BaseSpecialAttack>80</BaseSpecialAttack>
+    <BaseSpecialDefence>50</BaseSpecialDefence>
+    <BaseSpeed>65</BaseSpeed>
+    <ID>228</ID>
+    <Type>
+      <Item>fire</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Dark</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>66</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

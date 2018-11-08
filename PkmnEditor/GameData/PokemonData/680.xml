@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>doublade</PokemonName>
+    <BaseHP>59</BaseHP>
+    <BaseAttack>110</BaseAttack>
+    <BaseDefence>150</BaseDefence>
+    <BaseSpecialAttack>45</BaseSpecialAttack>
+    <BaseSpecialDefence>49</BaseSpecialDefence>
+    <BaseSpeed>35</BaseSpeed>
+    <ID>680</ID>
+    <Type>
+      <Item>ghost</Item>
+      <Item>steel</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Sword</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>157</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

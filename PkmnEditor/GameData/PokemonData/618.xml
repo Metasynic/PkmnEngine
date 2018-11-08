@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>stunfisk</PokemonName>
+    <BaseHP>109</BaseHP>
+    <BaseAttack>66</BaseAttack>
+    <BaseDefence>84</BaseDefence>
+    <BaseSpecialAttack>81</BaseSpecialAttack>
+    <BaseSpecialDefence>99</BaseSpecialDefence>
+    <BaseSpeed>32</BaseSpeed>
+    <ID>618</ID>
+    <Type>
+      <Item>electric</Item>
+      <Item>ground</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Trap</Species>
+    <WeightKg>0.7</WeightKg>
+    <HeightM>0.7</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>165</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

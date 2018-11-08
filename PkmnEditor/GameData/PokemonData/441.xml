@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>chatot</PokemonName>
+    <BaseHP>76</BaseHP>
+    <BaseAttack>65</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>92</BaseSpecialAttack>
+    <BaseSpecialDefence>42</BaseSpecialDefence>
+    <BaseSpeed>91</BaseSpeed>
+    <ID>441</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Music Note</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>144</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

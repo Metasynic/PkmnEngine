@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>clauncher</PokemonName>
+    <BaseHP>50</BaseHP>
+    <BaseAttack>53</BaseAttack>
+    <BaseDefence>62</BaseDefence>
+    <BaseSpecialAttack>58</BaseSpecialAttack>
+    <BaseSpecialDefence>63</BaseSpecialDefence>
+    <BaseSpeed>44</BaseSpeed>
+    <ID>692</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Water Gun</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>water3</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>66</BaseExp>
+    <CaptureRate>225</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

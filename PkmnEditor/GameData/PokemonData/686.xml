@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>inkay</PokemonName>
+    <BaseHP>53</BaseHP>
+    <BaseAttack>54</BaseAttack>
+    <BaseDefence>53</BaseDefence>
+    <BaseSpecialAttack>37</BaseSpecialAttack>
+    <BaseSpecialDefence>46</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>686</ID>
+    <Type>
+      <Item>psychic</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Revolving</Species>
+    <WeightKg>0.4</WeightKg>
+    <HeightM>0.4</HeightM>
+    <EggGroups>
+      <Item>water2</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>58</BaseExp>
+    <CaptureRate>190</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

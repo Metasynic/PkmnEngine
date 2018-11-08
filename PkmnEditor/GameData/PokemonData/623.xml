@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>golurk</PokemonName>
+    <BaseHP>89</BaseHP>
+    <BaseAttack>124</BaseAttack>
+    <BaseDefence>80</BaseDefence>
+    <BaseSpecialAttack>55</BaseSpecialAttack>
+    <BaseSpecialDefence>80</BaseSpecialDefence>
+    <BaseSpeed>55</BaseSpeed>
+    <ID>623</ID>
+    <Type>
+      <Item>ghost</Item>
+      <Item>ground</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Automaton</Species>
+    <WeightKg>2.8</WeightKg>
+    <HeightM>2.8</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>169</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

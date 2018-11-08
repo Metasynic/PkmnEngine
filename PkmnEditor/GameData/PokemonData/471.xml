@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>glaceon</PokemonName>
+    <BaseHP>65</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>110</BaseDefence>
+    <BaseSpecialAttack>130</BaseSpecialAttack>
+    <BaseSpecialDefence>95</BaseSpecialDefence>
+    <BaseSpeed>65</BaseSpeed>
+    <ID>471</ID>
+    <Type>
+      <Item>ice</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Fresh Snow</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>184</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>35</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>2</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

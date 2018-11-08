@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>zweilous</PokemonName>
+    <BaseHP>72</BaseHP>
+    <BaseAttack>85</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>58</BaseSpeed>
+    <ID>634</ID>
+    <Type>
+      <Item>dragon</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Hostile</Species>
+    <WeightKg>1.4</WeightKg>
+    <HeightM>1.4</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+    </EggGroups>
+    <BaseExp>147</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

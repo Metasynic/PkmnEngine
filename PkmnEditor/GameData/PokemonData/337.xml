@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>lunatone</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>55</BaseAttack>
+    <BaseDefence>65</BaseDefence>
+    <BaseSpecialAttack>95</BaseSpecialAttack>
+    <BaseSpecialDefence>85</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>337</ID>
+    <Type>
+      <Item>psychic</Item>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Meteorite</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>154</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>2</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

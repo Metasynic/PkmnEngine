@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>avalugg</PokemonName>
+    <BaseHP>95</BaseHP>
+    <BaseAttack>117</BaseAttack>
+    <BaseDefence>184</BaseDefence>
+    <BaseSpecialAttack>44</BaseSpecialAttack>
+    <BaseSpecialDefence>46</BaseSpecialDefence>
+    <BaseSpeed>28</BaseSpeed>
+    <ID>713</ID>
+    <Type>
+      <Item>ice</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Iceberg</Species>
+    <WeightKg>2</WeightKg>
+    <HeightM>2</HeightM>
+    <EggGroups>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>180</BaseExp>
+    <CaptureRate>55</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

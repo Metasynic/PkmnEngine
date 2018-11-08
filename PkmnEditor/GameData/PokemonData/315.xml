@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>roselia</PokemonName>
+    <BaseHP>50</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>100</BaseSpecialAttack>
+    <BaseSpecialDefence>80</BaseSpecialDefence>
+    <BaseSpeed>65</BaseSpeed>
+    <ID>315</ID>
+    <Type>
+      <Item>poison</Item>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Thorn</Species>
+    <WeightKg>0.3</WeightKg>
+    <HeightM>0.3</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>140</BaseExp>
+    <CaptureRate>150</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>2</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

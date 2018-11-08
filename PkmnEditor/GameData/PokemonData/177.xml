@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>natu</PokemonName>
+    <BaseHP>40</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>70</BaseSpecialAttack>
+    <BaseSpecialDefence>45</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>177</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Tiny Bird</Species>
+    <WeightKg>0.2</WeightKg>
+    <HeightM>0.2</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>64</BaseExp>
+    <CaptureRate>190</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

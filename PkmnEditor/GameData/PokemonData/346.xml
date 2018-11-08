@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>cradily</PokemonName>
+    <BaseHP>86</BaseHP>
+    <BaseAttack>81</BaseAttack>
+    <BaseDefence>97</BaseDefence>
+    <BaseSpecialAttack>81</BaseSpecialAttack>
+    <BaseSpecialDefence>107</BaseSpecialDefence>
+    <BaseSpeed>43</BaseSpeed>
+    <ID>346</ID>
+    <Type>
+      <Item>grass</Item>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Barnacle</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>water3</Item>
+    </EggGroups>
+    <BaseExp>173</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>erratic</GrowthRate>
+    <EggCycles>30</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>2</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

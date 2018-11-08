@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>azumarill</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>80</BaseDefence>
+    <BaseSpecialAttack>60</BaseSpecialAttack>
+    <BaseSpecialDefence>80</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>184</ID>
+    <Type>
+      <Item>fairy</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Aqua Rabbit</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>189</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>10</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>3</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>bastiodon</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>52</BaseAttack>
+    <BaseDefence>168</BaseDefence>
+    <BaseSpecialAttack>47</BaseSpecialAttack>
+    <BaseSpecialDefence>138</BaseSpecialDefence>
+    <BaseSpeed>30</BaseSpeed>
+    <ID>411</ID>
+    <Type>
+      <Item>steel</Item>
+      <Item>rock</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Shield</Species>
+    <WeightKg>1.3</WeightKg>
+    <HeightM>1.3</HeightM>
+    <EggGroups>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>173</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>erratic</GrowthRate>
+    <EggCycles>30</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

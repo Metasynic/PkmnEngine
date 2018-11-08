@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>machop</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>50</BaseDefence>
+    <BaseSpecialAttack>35</BaseSpecialAttack>
+    <BaseSpecialDefence>35</BaseSpecialDefence>
+    <BaseSpeed>35</BaseSpeed>
+    <ID>66</ID>
+    <Type>
+      <Item>fighting</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Superpower</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>61</BaseExp>
+    <CaptureRate>180</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>75</male>
+      <female>25</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

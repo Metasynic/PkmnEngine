@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>kadabra</PokemonName>
+    <BaseHP>40</BaseHP>
+    <BaseAttack>35</BaseAttack>
+    <BaseDefence>30</BaseDefence>
+    <BaseSpecialAttack>120</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>105</BaseSpeed>
+    <ID>64</ID>
+    <Type>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Psi</Species>
+    <WeightKg>1.3</WeightKg>
+    <HeightM>1.3</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>140</BaseExp>
+    <CaptureRate>100</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>75</male>
+      <female>25</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>2</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>camerupt</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>100</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>105</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>40</BaseSpeed>
+    <ID>323</ID>
+    <Type>
+      <Item>ground</Item>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Eruption</Species>
+    <WeightKg>1.9</WeightKg>
+    <HeightM>1.9</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>161</BaseExp>
+    <CaptureRate>150</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>sealeo</PokemonName>
+    <BaseHP>90</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>75</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>364</ID>
+    <Type>
+      <Item>water</Item>
+      <Item>ice</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Ball Roll</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>144</BaseExp>
+    <CaptureRate>120</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

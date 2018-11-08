@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>heliolisk</PokemonName>
+    <BaseHP>62</BaseHP>
+    <BaseAttack>55</BaseAttack>
+    <BaseDefence>52</BaseDefence>
+    <BaseSpecialAttack>109</BaseSpecialAttack>
+    <BaseSpecialDefence>94</BaseSpecialDefence>
+    <BaseSpeed>109</BaseSpeed>
+    <ID>695</ID>
+    <Type>
+      <Item>normal</Item>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Generator</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>168</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>rhydon</PokemonName>
+    <BaseHP>105</BaseHP>
+    <BaseAttack>130</BaseAttack>
+    <BaseDefence>120</BaseDefence>
+    <BaseSpecialAttack>45</BaseSpecialAttack>
+    <BaseSpecialDefence>45</BaseSpecialDefence>
+    <BaseSpeed>40</BaseSpeed>
+    <ID>112</ID>
+    <Type>
+      <Item>rock</Item>
+      <Item>ground</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Drill</Species>
+    <WeightKg>1.9</WeightKg>
+    <HeightM>1.9</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>170</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

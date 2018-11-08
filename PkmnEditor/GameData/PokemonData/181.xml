@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>ampharos</PokemonName>
+    <BaseHP>90</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>85</BaseDefence>
+    <BaseSpecialAttack>115</BaseSpecialAttack>
+    <BaseSpecialDefence>90</BaseSpecialDefence>
+    <BaseSpeed>55</BaseSpeed>
+    <ID>181</ID>
+    <Type>
+      <Item>electric</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Light</Species>
+    <WeightKg>1.4</WeightKg>
+    <HeightM>1.4</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>230</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

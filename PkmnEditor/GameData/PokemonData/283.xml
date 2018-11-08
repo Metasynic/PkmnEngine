@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>surskit</PokemonName>
+    <BaseHP>40</BaseHP>
+    <BaseAttack>30</BaseAttack>
+    <BaseDefence>32</BaseDefence>
+    <BaseSpecialAttack>50</BaseSpecialAttack>
+    <BaseSpecialDefence>52</BaseSpecialDefence>
+    <BaseSpeed>65</BaseSpeed>
+    <ID>283</ID>
+    <Type>
+      <Item>water</Item>
+      <Item>bug</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Pond Skater</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>54</BaseExp>
+    <CaptureRate>200</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>swalot</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>73</BaseAttack>
+    <BaseDefence>83</BaseDefence>
+    <BaseSpecialAttack>73</BaseSpecialAttack>
+    <BaseSpecialDefence>83</BaseSpecialDefence>
+    <BaseSpeed>55</BaseSpeed>
+    <ID>317</ID>
+    <Type>
+      <Item>poison</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Poison Bag</Species>
+    <WeightKg>1.7</WeightKg>
+    <HeightM>1.7</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>163</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fluctuating</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

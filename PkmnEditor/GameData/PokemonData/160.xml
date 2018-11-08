@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>feraligatr</PokemonName>
+    <BaseHP>85</BaseHP>
+    <BaseAttack>105</BaseAttack>
+    <BaseDefence>100</BaseDefence>
+    <BaseSpecialAttack>79</BaseSpecialAttack>
+    <BaseSpecialDefence>83</BaseSpecialDefence>
+    <BaseSpeed>78</BaseSpeed>
+    <ID>160</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Big Jaw</Species>
+    <WeightKg>2.3</WeightKg>
+    <HeightM>2.3</HeightM>
+    <EggGroups>
+      <Item>water1</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>239</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

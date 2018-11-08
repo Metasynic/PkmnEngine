@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>simisage</PokemonName>
+    <BaseHP>75</BaseHP>
+    <BaseAttack>98</BaseAttack>
+    <BaseDefence>63</BaseDefence>
+    <BaseSpecialAttack>98</BaseSpecialAttack>
+    <BaseSpecialDefence>63</BaseSpecialDefence>
+    <BaseSpeed>101</BaseSpeed>
+    <ID>512</ID>
+    <Type>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Thorn Monkey</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>174</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>2</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>flabebe</PokemonName>
+    <BaseHP>44</BaseHP>
+    <BaseAttack>38</BaseAttack>
+    <BaseDefence>39</BaseDefence>
+    <BaseSpecialAttack>61</BaseSpecialAttack>
+    <BaseSpecialDefence>79</BaseSpecialDefence>
+    <BaseSpeed>42</BaseSpeed>
+    <ID>669</ID>
+    <Type>
+      <Item>fairy</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Single Bloom</Species>
+    <WeightKg>0.1</WeightKg>
+    <HeightM>0.1</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>61</BaseExp>
+    <CaptureRate>225</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>100</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

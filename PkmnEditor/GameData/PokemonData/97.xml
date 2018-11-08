@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>hypno</PokemonName>
+    <BaseHP>85</BaseHP>
+    <BaseAttack>73</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>73</BaseSpecialAttack>
+    <BaseSpecialDefence>115</BaseSpecialDefence>
+    <BaseSpeed>67</BaseSpeed>
+    <ID>97</ID>
+    <Type>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Hypnosis</Species>
+    <WeightKg>1.6</WeightKg>
+    <HeightM>1.6</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>169</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>2</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

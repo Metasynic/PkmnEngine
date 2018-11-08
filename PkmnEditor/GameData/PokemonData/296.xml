@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>makuhita</PokemonName>
+    <BaseHP>72</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>30</BaseDefence>
+    <BaseSpecialAttack>20</BaseSpecialAttack>
+    <BaseSpecialDefence>30</BaseSpecialDefence>
+    <BaseSpeed>25</BaseSpeed>
+    <ID>296</ID>
+    <Type>
+      <Item>fighting</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Guts</Species>
+    <WeightKg>1</WeightKg>
+    <HeightM>1</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>47</BaseExp>
+    <CaptureRate>180</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fluctuating</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>75</male>
+      <female>25</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

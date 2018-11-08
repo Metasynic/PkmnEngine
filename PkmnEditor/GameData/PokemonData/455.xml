@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>carnivine</PokemonName>
+    <BaseHP>74</BaseHP>
+    <BaseAttack>100</BaseAttack>
+    <BaseDefence>72</BaseDefence>
+    <BaseSpecialAttack>90</BaseSpecialAttack>
+    <BaseSpecialDefence>72</BaseSpecialDefence>
+    <BaseSpeed>46</BaseSpeed>
+    <ID>455</ID>
+    <Type>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Bug Catcher</Species>
+    <WeightKg>1.4</WeightKg>
+    <HeightM>1.4</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+    </EggGroups>
+    <BaseExp>159</BaseExp>
+    <CaptureRate>200</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

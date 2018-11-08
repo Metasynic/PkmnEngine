@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>azurill</PokemonName>
+    <BaseHP>50</BaseHP>
+    <BaseAttack>20</BaseAttack>
+    <BaseDefence>40</BaseDefence>
+    <BaseSpecialAttack>20</BaseSpecialAttack>
+    <BaseSpecialDefence>40</BaseSpecialDefence>
+    <BaseSpeed>20</BaseSpeed>
+    <ID>298</ID>
+    <Type>
+      <Item>fairy</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Polka Dot</Species>
+    <WeightKg>0.2</WeightKg>
+    <HeightM>0.2</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>38</BaseExp>
+    <CaptureRate>150</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>10</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

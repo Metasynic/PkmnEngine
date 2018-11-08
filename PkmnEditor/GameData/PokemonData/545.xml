@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>scolipede</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>100</BaseAttack>
+    <BaseDefence>89</BaseDefence>
+    <BaseSpecialAttack>55</BaseSpecialAttack>
+    <BaseSpecialDefence>69</BaseSpecialDefence>
+    <BaseSpeed>112</BaseSpeed>
+    <ID>545</ID>
+    <Type>
+      <Item>poison</Item>
+      <Item>bug</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Megapede</Species>
+    <WeightKg>2.5</WeightKg>
+    <HeightM>2.5</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+    </EggGroups>
+    <BaseExp>218</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>3</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>hippowdon</PokemonName>
+    <BaseHP>108</BaseHP>
+    <BaseAttack>112</BaseAttack>
+    <BaseDefence>118</BaseDefence>
+    <BaseSpecialAttack>68</BaseSpecialAttack>
+    <BaseSpecialDefence>72</BaseSpecialDefence>
+    <BaseSpeed>47</BaseSpeed>
+    <ID>450</ID>
+    <Type>
+      <Item>ground</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Heavyweight</Species>
+    <WeightKg>2</WeightKg>
+    <HeightM>2</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>184</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>30</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

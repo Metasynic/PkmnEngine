@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>gogoat</PokemonName>
+    <BaseHP>123</BaseHP>
+    <BaseAttack>100</BaseAttack>
+    <BaseDefence>62</BaseDefence>
+    <BaseSpecialAttack>97</BaseSpecialAttack>
+    <BaseSpecialDefence>81</BaseSpecialDefence>
+    <BaseSpeed>68</BaseSpeed>
+    <ID>673</ID>
+    <Type>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Mount</Species>
+    <WeightKg>1.7</WeightKg>
+    <HeightM>1.7</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>186</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

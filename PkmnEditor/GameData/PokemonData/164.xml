@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>noctowl</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>50</BaseAttack>
+    <BaseDefence>50</BaseDefence>
+    <BaseSpecialAttack>76</BaseSpecialAttack>
+    <BaseSpecialDefence>96</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>164</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Owl</Species>
+    <WeightKg>1.6</WeightKg>
+    <HeightM>1.6</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>155</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>hariyama</PokemonName>
+    <BaseHP>144</BaseHP>
+    <BaseAttack>120</BaseAttack>
+    <BaseDefence>60</BaseDefence>
+    <BaseSpecialAttack>40</BaseSpecialAttack>
+    <BaseSpecialDefence>60</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>297</ID>
+    <Type>
+      <Item>fighting</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Arm Thrust</Species>
+    <WeightKg>2.3</WeightKg>
+    <HeightM>2.3</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>166</BaseExp>
+    <CaptureRate>200</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fluctuating</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>75</male>
+      <female>25</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>empoleon</PokemonName>
+    <BaseHP>84</BaseHP>
+    <BaseAttack>86</BaseAttack>
+    <BaseDefence>88</BaseDefence>
+    <BaseSpecialAttack>111</BaseSpecialAttack>
+    <BaseSpecialDefence>101</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>395</ID>
+    <Type>
+      <Item>steel</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Emperor</Species>
+    <WeightKg>1.7</WeightKg>
+    <HeightM>1.7</HeightM>
+    <EggGroups>
+      <Item>field</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>239</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

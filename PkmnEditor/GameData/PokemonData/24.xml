@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>arbok</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>85</BaseAttack>
+    <BaseDefence>69</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>79</BaseSpecialDefence>
+    <BaseSpeed>80</BaseSpeed>
+    <ID>24</ID>
+    <Type>
+      <Item>poison</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Cobra</Species>
+    <WeightKg>3.5</WeightKg>
+    <HeightM>3.5</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>153</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

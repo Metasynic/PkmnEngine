@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>mismagius</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>60</BaseAttack>
+    <BaseDefence>60</BaseDefence>
+    <BaseSpecialAttack>105</BaseSpecialAttack>
+    <BaseSpecialDefence>105</BaseSpecialDefence>
+    <BaseSpeed>105</BaseSpeed>
+    <ID>429</ID>
+    <Type>
+      <Item>ghost</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Magical</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>173</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

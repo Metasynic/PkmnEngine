@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>caterpie</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>30</BaseAttack>
+    <BaseDefence>35</BaseDefence>
+    <BaseSpecialAttack>20</BaseSpecialAttack>
+    <BaseSpecialDefence>20</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>10</ID>
+    <Type>
+      <Item>bug</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Worm</Species>
+    <WeightKg>0.3</WeightKg>
+    <HeightM>0.3</HeightM>
+    <EggGroups>
+      <Item>bug</Item>
+    </EggGroups>
+    <BaseExp>39</BaseExp>
+    <CaptureRate>255</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

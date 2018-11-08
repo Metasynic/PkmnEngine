@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>torterra</PokemonName>
+    <BaseHP>95</BaseHP>
+    <BaseAttack>109</BaseAttack>
+    <BaseDefence>105</BaseDefence>
+    <BaseSpecialAttack>75</BaseSpecialAttack>
+    <BaseSpecialDefence>85</BaseSpecialDefence>
+    <BaseSpeed>56</BaseSpeed>
+    <ID>389</ID>
+    <Type>
+      <Item>ground</Item>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Continent</Species>
+    <WeightKg>2.2</WeightKg>
+    <HeightM>2.2</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>236</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

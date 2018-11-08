@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>swampert</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>110</BaseAttack>
+    <BaseDefence>90</BaseDefence>
+    <BaseSpecialAttack>85</BaseSpecialAttack>
+    <BaseSpecialDefence>90</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>260</ID>
+    <Type>
+      <Item>ground</Item>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Mud Fish</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>water1</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>241</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>3</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

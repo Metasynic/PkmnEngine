@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>froslass</PokemonName>
+    <BaseHP>70</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>70</BaseDefence>
+    <BaseSpecialAttack>80</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>110</BaseSpeed>
+    <ID>478</ID>
+    <Type>
+      <Item>ghost</Item>
+      <Item>ice</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Snow Land</Species>
+    <WeightKg>1.3</WeightKg>
+    <HeightM>1.3</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>168</BaseExp>
+    <CaptureRate>75</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>100</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>2</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

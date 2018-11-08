@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>klang</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>95</BaseDefence>
+    <BaseSpecialAttack>70</BaseSpecialAttack>
+    <BaseSpecialDefence>85</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>600</ID>
+    <Type>
+      <Item>steel</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Gear</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>mineral</Item>
+    </EggGroups>
+    <BaseExp>154</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

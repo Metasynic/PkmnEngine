@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>virizion</PokemonName>
+    <BaseHP>91</BaseHP>
+    <BaseAttack>90</BaseAttack>
+    <BaseDefence>72</BaseDefence>
+    <BaseSpecialAttack>90</BaseSpecialAttack>
+    <BaseSpecialDefence>129</BaseSpecialDefence>
+    <BaseSpeed>108</BaseSpeed>
+    <ID>640</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Grassland</Species>
+    <WeightKg>2</WeightKg>
+    <HeightM>2</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>261</BaseExp>
+    <CaptureRate>3</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>80</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>3</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>normal</Type>
+    <Category>special</Category>
+    <Name>Hyper Voice</Name>
+    <Power>90</Power>
+    <Accuracy>100</Accuracy>
+    <PP>
+      <CurrentValue>10</CurrentValue>
+      <MaximumValue>10</MaximumValue>
+    </PP>
+    <Priority>0</Priority>
+  </Asset>
+</XnaContent>

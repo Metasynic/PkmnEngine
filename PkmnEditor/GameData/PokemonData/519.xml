@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>pidove</PokemonName>
+    <BaseHP>50</BaseHP>
+    <BaseAttack>55</BaseAttack>
+    <BaseDefence>50</BaseDefence>
+    <BaseSpecialAttack>36</BaseSpecialAttack>
+    <BaseSpecialDefence>30</BaseSpecialDefence>
+    <BaseSpeed>43</BaseSpeed>
+    <ID>519</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Tiny Pigeon</Species>
+    <WeightKg>0.3</WeightKg>
+    <HeightM>0.3</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>53</BaseExp>
+    <CaptureRate>255</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

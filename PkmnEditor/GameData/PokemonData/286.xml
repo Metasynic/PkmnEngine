@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>breloom</PokemonName>
+    <BaseHP>60</BaseHP>
+    <BaseAttack>130</BaseAttack>
+    <BaseDefence>80</BaseDefence>
+    <BaseSpecialAttack>60</BaseSpecialAttack>
+    <BaseSpecialDefence>60</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>286</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Mushroom</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>161</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fluctuating</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

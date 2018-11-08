@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>clefable</PokemonName>
+    <BaseHP>95</BaseHP>
+    <BaseAttack>70</BaseAttack>
+    <BaseDefence>73</BaseDefence>
+    <BaseSpecialAttack>95</BaseSpecialAttack>
+    <BaseSpecialDefence>90</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>36</ID>
+    <Type>
+      <Item>fairy</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Fairy</Species>
+    <WeightKg>1.3</WeightKg>
+    <HeightM>1.3</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>217</BaseExp>
+    <CaptureRate>25</CaptureRate>
+    <BaseHappiness>140</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>10</EggCycles>
+    <GenderRatio>
+      <male>24</male>
+      <female>76</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>3</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

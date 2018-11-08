@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>scrafty</PokemonName>
+    <BaseHP>65</BaseHP>
+    <BaseAttack>90</BaseAttack>
+    <BaseDefence>115</BaseDefence>
+    <BaseSpecialAttack>45</BaseSpecialAttack>
+    <BaseSpecialDefence>115</BaseSpecialDefence>
+    <BaseSpeed>58</BaseSpeed>
+    <ID>560</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Hoodlum</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>171</BaseExp>
+    <CaptureRate>90</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

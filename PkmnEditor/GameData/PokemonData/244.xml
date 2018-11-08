@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>entei</PokemonName>
+    <BaseHP>115</BaseHP>
+    <BaseAttack>115</BaseAttack>
+    <BaseDefence>85</BaseDefence>
+    <BaseSpecialAttack>90</BaseSpecialAttack>
+    <BaseSpecialDefence>75</BaseSpecialDefence>
+    <BaseSpeed>100</BaseSpeed>
+    <ID>244</ID>
+    <Type>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Volcano</Species>
+    <WeightKg>2.1</WeightKg>
+    <HeightM>2.1</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>261</BaseExp>
+    <CaptureRate>3</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>80</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

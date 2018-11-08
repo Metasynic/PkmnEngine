@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>talonflame</PokemonName>
+    <BaseHP>78</BaseHP>
+    <BaseAttack>81</BaseAttack>
+    <BaseDefence>71</BaseDefence>
+    <BaseSpecialAttack>74</BaseSpecialAttack>
+    <BaseSpecialDefence>69</BaseSpecialDefence>
+    <BaseSpeed>126</BaseSpeed>
+    <ID>663</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Scorching</Species>
+    <WeightKg>1.2</WeightKg>
+    <HeightM>1.2</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>175</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>15</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>3</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

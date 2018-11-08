@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>ice</Type>
+    <Category>physical</Category>
+    <Name>Avalanche</Name>
+    <Power>60</Power>
+    <Accuracy>100</Accuracy>
+    <PP>
+      <CurrentValue>10</CurrentValue>
+      <MaximumValue>10</MaximumValue>
+    </PP>
+    <Priority>-4</Priority>
+  </Asset>
+</XnaContent>

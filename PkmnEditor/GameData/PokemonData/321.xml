@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>wailord</PokemonName>
+    <BaseHP>170</BaseHP>
+    <BaseAttack>90</BaseAttack>
+    <BaseDefence>45</BaseDefence>
+    <BaseSpecialAttack>90</BaseSpecialAttack>
+    <BaseSpecialDefence>45</BaseSpecialDefence>
+    <BaseSpeed>60</BaseSpeed>
+    <ID>321</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Float Whale</Species>
+    <WeightKg>14.5</WeightKg>
+    <HeightM>14.5</HeightM>
+    <EggGroups>
+      <Item>water2</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>175</BaseExp>
+    <CaptureRate>60</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>fluctuating</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

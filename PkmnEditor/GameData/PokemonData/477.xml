@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>dusknoir</PokemonName>
+    <BaseHP>45</BaseHP>
+    <BaseAttack>100</BaseAttack>
+    <BaseDefence>135</BaseDefence>
+    <BaseSpecialAttack>65</BaseSpecialAttack>
+    <BaseSpecialDefence>135</BaseSpecialDefence>
+    <BaseSpeed>45</BaseSpeed>
+    <ID>477</ID>
+    <Type>
+      <Item>ghost</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Gripper</Species>
+    <WeightKg>2.2</WeightKg>
+    <HeightM>2.2</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>236</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>1</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>2</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:WorldClasses="MGPkmnLibrary.WorldClasses">
+  <Asset Type="WorldClasses:LevelData">
+    <LevelName>Level 3</LevelName>
+    <MapName>Map 3</MapName>
+    <MapWidth>50</MapWidth>
+    <MapHeight>35</MapHeight>
+    <CharacterNames />
+  </Asset>
+</XnaContent>

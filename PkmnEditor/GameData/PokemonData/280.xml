@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>ralts</PokemonName>
+    <BaseHP>28</BaseHP>
+    <BaseAttack>25</BaseAttack>
+    <BaseDefence>25</BaseDefence>
+    <BaseSpecialAttack>45</BaseSpecialAttack>
+    <BaseSpecialDefence>35</BaseSpecialDefence>
+    <BaseSpeed>40</BaseSpeed>
+    <ID>280</ID>
+    <Type>
+      <Item>fairy</Item>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Feeling</Species>
+    <WeightKg>0.4</WeightKg>
+    <HeightM>0.4</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>40</BaseExp>
+    <CaptureRate>235</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

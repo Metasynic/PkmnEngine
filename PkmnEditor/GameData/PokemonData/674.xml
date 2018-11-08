@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>pancham</PokemonName>
+    <BaseHP>67</BaseHP>
+    <BaseAttack>82</BaseAttack>
+    <BaseDefence>62</BaseDefence>
+    <BaseSpecialAttack>46</BaseSpecialAttack>
+    <BaseSpecialDefence>48</BaseSpecialDefence>
+    <BaseSpeed>43</BaseSpeed>
+    <ID>674</ID>
+    <Type>
+      <Item>fighting</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Playful</Species>
+    <WeightKg>0.6</WeightKg>
+    <HeightM>0.6</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>70</BaseExp>
+    <CaptureRate>220</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

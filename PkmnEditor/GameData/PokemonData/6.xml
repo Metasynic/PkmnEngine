@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>charizard</PokemonName>
+    <BaseHP>78</BaseHP>
+    <BaseAttack>84</BaseAttack>
+    <BaseDefence>78</BaseDefence>
+    <BaseSpecialAttack>109</BaseSpecialAttack>
+    <BaseSpecialDefence>85</BaseSpecialDefence>
+    <BaseSpeed>100</BaseSpeed>
+    <ID>6</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Flame</Species>
+    <WeightKg>1.7</WeightKg>
+    <HeightM>1.7</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>240</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

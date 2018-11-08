@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>blissey</PokemonName>
+    <BaseHP>255</BaseHP>
+    <BaseAttack>10</BaseAttack>
+    <BaseDefence>10</BaseDefence>
+    <BaseSpecialAttack>75</BaseSpecialAttack>
+    <BaseSpecialDefence>135</BaseSpecialDefence>
+    <BaseSpeed>55</BaseSpeed>
+    <ID>242</ID>
+    <Type>
+      <Item>normal</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Happiness</Species>
+    <WeightKg>1.5</WeightKg>
+    <HeightM>1.5</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>608</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>140</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>100</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>3</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

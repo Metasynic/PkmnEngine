@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>reshiram</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>120</BaseAttack>
+    <BaseDefence>100</BaseDefence>
+    <BaseSpecialAttack>150</BaseSpecialAttack>
+    <BaseSpecialDefence>120</BaseSpecialDefence>
+    <BaseSpeed>90</BaseSpeed>
+    <ID>643</ID>
+    <Type>
+      <Item>fire</Item>
+      <Item>dragon</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Vast White</Species>
+    <WeightKg>3.2</WeightKg>
+    <HeightM>3.2</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>306</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>0</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>120</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

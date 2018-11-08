@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>unown</PokemonName>
+    <BaseHP>48</BaseHP>
+    <BaseAttack>72</BaseAttack>
+    <BaseDefence>48</BaseDefence>
+    <BaseSpecialAttack>72</BaseSpecialAttack>
+    <BaseSpecialDefence>48</BaseSpecialDefence>
+    <BaseSpeed>48</BaseSpeed>
+    <ID>201</ID>
+    <Type>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Symbol</Species>
+    <WeightKg>0.5</WeightKg>
+    <HeightM>0.5</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>118</BaseExp>
+    <CaptureRate>225</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

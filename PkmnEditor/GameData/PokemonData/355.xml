@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>duskull</PokemonName>
+    <BaseHP>20</BaseHP>
+    <BaseAttack>40</BaseAttack>
+    <BaseDefence>90</BaseDefence>
+    <BaseSpecialAttack>30</BaseSpecialAttack>
+    <BaseSpecialDefence>90</BaseSpecialDefence>
+    <BaseSpeed>25</BaseSpeed>
+    <ID>355</ID>
+    <Type>
+      <Item>ghost</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Requiem</Species>
+    <WeightKg>0.8</WeightKg>
+    <HeightM>0.8</HeightM>
+    <EggGroups>
+      <Item>amorphous</Item>
+    </EggGroups>
+    <BaseExp>59</BaseExp>
+    <CaptureRate>190</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>fast</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

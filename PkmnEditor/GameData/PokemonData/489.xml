@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>phione</PokemonName>
+    <BaseHP>80</BaseHP>
+    <BaseAttack>80</BaseAttack>
+    <BaseDefence>80</BaseDefence>
+    <BaseSpecialAttack>80</BaseSpecialAttack>
+    <BaseSpecialDefence>80</BaseSpecialDefence>
+    <BaseSpeed>80</BaseSpeed>
+    <ID>489</ID>
+    <Type>
+      <Item>water</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Sea Drifter</Species>
+    <WeightKg>0.4</WeightKg>
+    <HeightM>0.4</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>216</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>1</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

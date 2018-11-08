@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>monferno</PokemonName>
+    <BaseHP>64</BaseHP>
+    <BaseAttack>78</BaseAttack>
+    <BaseDefence>52</BaseDefence>
+    <BaseSpecialAttack>78</BaseSpecialAttack>
+    <BaseSpecialDefence>52</BaseSpecialDefence>
+    <BaseSpeed>81</BaseSpeed>
+    <ID>391</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Playful</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>142</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>1</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>1</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>fighting</Type>
+    <Category>special</Category>
+    <Name>Vacuum Wave</Name>
+    <Power>40</Power>
+    <Accuracy>100</Accuracy>
+    <PP>
+      <CurrentValue>30</CurrentValue>
+      <MaximumValue>30</MaximumValue>
+    </PP>
+    <Priority>1</Priority>
+  </Asset>
+</XnaContent>

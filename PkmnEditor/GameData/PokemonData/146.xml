@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>moltres</PokemonName>
+    <BaseHP>90</BaseHP>
+    <BaseAttack>100</BaseAttack>
+    <BaseDefence>90</BaseDefence>
+    <BaseSpecialAttack>125</BaseSpecialAttack>
+    <BaseSpecialDefence>85</BaseSpecialDefence>
+    <BaseSpeed>90</BaseSpeed>
+    <ID>146</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>fire</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Flame</Species>
+    <WeightKg>2</WeightKg>
+    <HeightM>2</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>261</BaseExp>
+    <CaptureRate>3</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>80</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>3</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

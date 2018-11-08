@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>florges</PokemonName>
+    <BaseHP>78</BaseHP>
+    <BaseAttack>65</BaseAttack>
+    <BaseDefence>68</BaseDefence>
+    <BaseSpecialAttack>112</BaseSpecialAttack>
+    <BaseSpecialDefence>154</BaseSpecialDefence>
+    <BaseSpeed>75</BaseSpeed>
+    <ID>671</ID>
+    <Type>
+      <Item>fairy</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Garden</Species>
+    <WeightKg>1.1</WeightKg>
+    <HeightM>1.1</HeightM>
+    <EggGroups>
+      <Item>fairy</Item>
+    </EggGroups>
+    <BaseExp>248</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>100</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>3</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

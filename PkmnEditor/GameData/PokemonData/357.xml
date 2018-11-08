@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>tropius</PokemonName>
+    <BaseHP>99</BaseHP>
+    <BaseAttack>68</BaseAttack>
+    <BaseDefence>83</BaseDefence>
+    <BaseSpecialAttack>72</BaseSpecialAttack>
+    <BaseSpecialDefence>87</BaseSpecialDefence>
+    <BaseSpeed>51</BaseSpeed>
+    <ID>357</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Fruit</Species>
+    <WeightKg>2</WeightKg>
+    <HeightM>2</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+      <Item>monster</Item>
+    </EggGroups>
+    <BaseExp>161</BaseExp>
+    <CaptureRate>200</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>25</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>2</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>grass</Type>
+    <Category>status</Category>
+    <Name>Ingrain</Name>
+    <Power>0</Power>
+    <Accuracy>0</Accuracy>
+    <PP>
+      <CurrentValue>20</CurrentValue>
+      <MaximumValue>20</MaximumValue>
+    </PP>
+    <Priority>0</Priority>
+  </Asset>
+</XnaContent>

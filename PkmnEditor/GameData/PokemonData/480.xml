@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>uxie</PokemonName>
+    <BaseHP>75</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>130</BaseDefence>
+    <BaseSpecialAttack>75</BaseSpecialAttack>
+    <BaseSpecialDefence>130</BaseSpecialDefence>
+    <BaseSpeed>95</BaseSpeed>
+    <ID>480</ID>
+    <Type>
+      <Item>psychic</Item>
+    </Type>
+    <CanHaveGender>false</CanHaveGender>
+    <Species>Knowledge</Species>
+    <WeightKg>0.3</WeightKg>
+    <HeightM>0.3</HeightM>
+    <EggGroups>
+      <Item>undiscovered</Item>
+    </EggGroups>
+    <BaseExp>261</BaseExp>
+    <CaptureRate>3</CaptureRate>
+    <BaseHappiness>140</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>80</EggCycles>
+    <GenderRatio>
+      <male>0</male>
+      <female>0</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>2</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>1</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

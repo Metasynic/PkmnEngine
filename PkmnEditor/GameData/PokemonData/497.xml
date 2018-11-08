@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>serperior</PokemonName>
+    <BaseHP>75</BaseHP>
+    <BaseAttack>75</BaseAttack>
+    <BaseDefence>95</BaseDefence>
+    <BaseSpecialAttack>75</BaseSpecialAttack>
+    <BaseSpecialDefence>95</BaseSpecialDefence>
+    <BaseSpeed>113</BaseSpeed>
+    <ID>497</ID>
+    <Type>
+      <Item>grass</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Regal</Species>
+    <WeightKg>3.3</WeightKg>
+    <HeightM>3.3</HeightM>
+    <EggGroups>
+      <Item>grass</Item>
+      <Item>field</Item>
+    </EggGroups>
+    <BaseExp>238</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>70</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>88</male>
+      <female>12</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>0</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>3</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

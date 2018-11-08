@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>ground</Type>
+    <Category>special</Category>
+    <Name>Mud Bomb</Name>
+    <Power>65</Power>
+    <Accuracy>85</Accuracy>
+    <PP>
+      <CurrentValue>10</CurrentValue>
+      <MaximumValue>10</MaximumValue>
+    </PP>
+    <Priority>0</Priority>
+  </Asset>
+</XnaContent>

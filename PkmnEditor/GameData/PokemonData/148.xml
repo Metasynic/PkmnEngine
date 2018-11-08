@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>dragonair</PokemonName>
+    <BaseHP>61</BaseHP>
+    <BaseAttack>84</BaseAttack>
+    <BaseDefence>65</BaseDefence>
+    <BaseSpecialAttack>70</BaseSpecialAttack>
+    <BaseSpecialDefence>70</BaseSpecialDefence>
+    <BaseSpeed>70</BaseSpeed>
+    <ID>148</ID>
+    <Type>
+      <Item>dragon</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Dragon</Species>
+    <WeightKg>4</WeightKg>
+    <HeightM>4</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>147</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

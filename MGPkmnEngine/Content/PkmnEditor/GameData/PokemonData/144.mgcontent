@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/samwi/Documents/Programming/C#/MGPkmnEngine/MGPkmnEngine/Content/../../PkmnEditor/GameData/PokemonData/144.xml</SourceFile>
+  <SourceTime>2017-03-05T19:31:29.971581+00:00</SourceTime>
+  <DestFile>C:/Users/samwi/Documents/Programming/C#/MGPkmnEngine/MGPkmnEngine/Content/bin/Windows/../../PkmnEditor/GameData/PokemonData/144.xnb</DestFile>
+  <DestTime>2018-04-30T17:38:51.5323045+01:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

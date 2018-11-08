@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>fire</Type>
+    <Category>special</Category>
+    <Name>Fusion Flare</Name>
+    <Power>100</Power>
+    <Accuracy>100</Accuracy>
+    <PP>
+      <CurrentValue>5</CurrentValue>
+      <MaximumValue>5</MaximumValue>
+    </PP>
+    <Priority>0</Priority>
+  </Asset>
+</XnaContent>

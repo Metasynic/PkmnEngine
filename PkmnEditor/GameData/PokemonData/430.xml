@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>honchkrow</PokemonName>
+    <BaseHP>100</BaseHP>
+    <BaseAttack>125</BaseAttack>
+    <BaseDefence>52</BaseDefence>
+    <BaseSpecialAttack>105</BaseSpecialAttack>
+    <BaseSpecialDefence>52</BaseSpecialDefence>
+    <BaseSpeed>71</BaseSpeed>
+    <ID>430</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>dark</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Big Boss</Species>
+    <WeightKg>0.9</WeightKg>
+    <HeightM>0.9</HeightM>
+    <EggGroups>
+      <Item>flying</Item>
+    </EggGroups>
+    <BaseExp>177</BaseExp>
+    <CaptureRate>30</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>mediumslow</GrowthRate>
+    <EggCycles>20</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>2</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

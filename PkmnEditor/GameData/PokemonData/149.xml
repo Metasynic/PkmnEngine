@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>dragonite</PokemonName>
+    <BaseHP>91</BaseHP>
+    <BaseAttack>134</BaseAttack>
+    <BaseDefence>95</BaseDefence>
+    <BaseSpecialAttack>100</BaseSpecialAttack>
+    <BaseSpecialDefence>100</BaseSpecialDefence>
+    <BaseSpeed>80</BaseSpeed>
+    <ID>149</ID>
+    <Type>
+      <Item>flying</Item>
+      <Item>dragon</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Dragon</Species>
+    <WeightKg>2.2</WeightKg>
+    <HeightM>2.2</HeightM>
+    <EggGroups>
+      <Item>dragon</Item>
+      <Item>water1</Item>
+    </EggGroups>
+    <BaseExp>270</BaseExp>
+    <CaptureRate>45</CaptureRate>
+    <BaseHappiness>35</BaseHappiness>
+    <GrowthRate>slow</GrowthRate>
+    <EggCycles>40</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>3</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

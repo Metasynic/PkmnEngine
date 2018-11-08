@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Sam Williams/Documents/Visual Studio 2015/Projects/MGPkmnEngine/MGPkmnEngine/Content/../../PkmnEditor/GameData/PokemonData/1.xml</SourceFile>
+  <SourceTime>2016-12-08T11:51:30.1589224+00:00</SourceTime>
+  <DestFile>C:/Users/Sam Williams/Documents/Visual Studio 2015/Projects/MGPkmnEngine/MGPkmnEngine/Content/bin/Windows/../../PkmnEditor/GameData/PokemonData/1.xnb</DestFile>
+  <DestTime>2017-01-11T19:01:59.5769202+00:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

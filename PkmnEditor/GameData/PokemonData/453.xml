@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:PokemonData">
+    <PokemonName>croagunk</PokemonName>
+    <BaseHP>48</BaseHP>
+    <BaseAttack>61</BaseAttack>
+    <BaseDefence>40</BaseDefence>
+    <BaseSpecialAttack>61</BaseSpecialAttack>
+    <BaseSpecialDefence>40</BaseSpecialDefence>
+    <BaseSpeed>50</BaseSpeed>
+    <ID>453</ID>
+    <Type>
+      <Item>fighting</Item>
+      <Item>poison</Item>
+    </Type>
+    <CanHaveGender>true</CanHaveGender>
+    <Species>Toxic Mouth</Species>
+    <WeightKg>0.7</WeightKg>
+    <HeightM>0.7</HeightM>
+    <EggGroups>
+      <Item>humanlike</Item>
+    </EggGroups>
+    <BaseExp>60</BaseExp>
+    <CaptureRate>140</CaptureRate>
+    <BaseHappiness>100</BaseHappiness>
+    <GrowthRate>mediumfast</GrowthRate>
+    <EggCycles>10</EggCycles>
+    <GenderRatio>
+      <male>49</male>
+      <female>51</female>
+    </GenderRatio>
+    <EvYield>
+      <HpYield>0</HpYield>
+      <AtkYield>1</AtkYield>
+      <DefYield>0</DefYield>
+      <SpAtkYield>0</SpAtkYield>
+      <SpDefYield>0</SpDefYield>
+      <SpdYield>0</SpdYield>
+    </EvYield>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PokemonClasses="MGPkmnLibrary.PokemonClasses">
+  <Asset Type="PokemonClasses:Move">
+    <Flags>false false false false false false false false false false false false false false false false false false false false</Flags>
+    <Type>fire</Type>
+    <Category>physical</Category>
+    <Name>Blaze Kick</Name>
+    <Power>85</Power>
+    <Accuracy>90</Accuracy>
+    <PP>
+      <CurrentValue>10</CurrentValue>
+      <MaximumValue>10</MaximumValue>
+    </PP>
+    <Priority>0</Priority>
+  </Asset>
+</XnaContent>
